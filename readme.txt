@@ -1,0 +1,2 @@
+用matlab打开svdcondense.m即可
+文件夹中附了几张照片
